@@ -1,0 +1,2 @@
+CAUA JOAO;00000000000;caua@gmail.com;00000000000;20;123456*;Hulk;False;colaborador
+MARIA EDUARDA;11111111111;mduda@gmail.com;83988888888;13;123456*;Xuxa;True;cliente;[]
